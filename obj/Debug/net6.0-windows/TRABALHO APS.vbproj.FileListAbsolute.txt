@@ -1,0 +1,21 @@
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.vbproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO_APS.Ex1.resources
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO_APS.Ex2.resources
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO_APS.Ex3.resources
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO_APS.Ex4.resources
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO_APS.Form1.resources
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.vbproj.GenerateResource.cache
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.AssemblyInfo.vb
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\bin\Debug\net6.0-windows\TRABALHO APS.exe
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\bin\Debug\net6.0-windows\TRABALHO APS.deps.json
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\bin\Debug\net6.0-windows\TRABALHO APS.runtimeconfig.json
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\bin\Debug\net6.0-windows\TRABALHO APS.dll
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\bin\Debug\net6.0-windows\ref\TRABALHO APS.dll
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\bin\Debug\net6.0-windows\TRABALHO APS.pdb
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.dll
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\ref\TRABALHO APS.dll
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.pdb
+C:\Users\Utilizador\source\repos\TRABALHO APS\TRABALHO APS\obj\Debug\net6.0-windows\TRABALHO APS.genruntimeconfig.cache
